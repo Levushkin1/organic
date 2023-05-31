@@ -801,6 +801,11 @@ body {
   display: flex;
   width: 80%;
   justify-content: space-between;
+  
+}
+.contacts-footer__social img:hover {
+  transform: scale(1.2);
+  transition: all 0.3s ease;
 }
 
 @media (max-width: 1270px) {
